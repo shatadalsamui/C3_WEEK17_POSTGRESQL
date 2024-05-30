@@ -56,4 +56,3 @@ The project demonstrates:
 - Connection lifecycle handling
 - Error recovery patterns
 - Type-safe database interactions
-
