@@ -1,0 +1,21 @@
+link-https://projects.100xdevs.com/tracks/YOSAherHkqWXhOdlE4yE/sql-7
+{
+
+TYPECRIPT PROJECT BOOTSTRAP
+
+npm init -y
+npm install typescript
+npx tsc --init
+
+{ tsconfig.json
+"rootDir": "./src",
+"outDir": "./dist",
+}
+
+{ package.json
+"dev": "tsc -b && node /dist/index.js"}
+
+ postgresql-
+ npm install pg
+ npm install @types/pg
+}
